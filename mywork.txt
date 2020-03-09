@@ -1,0 +1,19 @@
+My Associate id:
+845090
+Other team members:
+845069,845088,844990
+TeamLead:
+845090
+My Role in team:
+1.Creating Db.json And Storing Data in Json Server
+2.Services To Add and View Data from Json Server
+3.Creation of Routing Modules
+Componenets That I Worked On
+1.Order.services
+2.Viewgiftcard component
+3.app.routing.module.ts
+4.placegidtcard component
+
+I am Good at :
+1.Validations
+2.Storing And Retrieving Data
